@@ -1,4 +1,4 @@
-# CodeAlpha_Project_Fibonnacci generator.
+# CodeAlpha_Fibonnacci generator.
 
 This repository contains fibonacci generator simple but yet interesting.I have built it using basics of python.
 Fibonnaci series is a special series in which each number is the sum of the two preceding numbers, defined by a mathematical recurrence relationship.
